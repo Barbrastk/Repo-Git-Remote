@@ -4,8 +4,8 @@
 -Inicie el repo abriendo la carpeta del repo en visual studio code y usando el comando [git init .]
 -Cree un repositorio desde Github (incluí un readme): Repo-Git-Remote, copié la SSH, y conecté los repositorios con [git remote add origin git@github.com:Barbrastk/Repo-Git-Remote.git]
 -Confirmé que estuvieran los repos bien conectados con 
-[git remote -v
-# Verify new remote]
+[git remote -v 
+(#) Verify new remote]
 -Creé un archivo index.html 
 -Añadí el archivo index.html al staging [git add .]
 -Creé un commit -m, con el mensaje de la acción realizada
